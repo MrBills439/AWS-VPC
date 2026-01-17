@@ -1,3 +1,3 @@
 provider "aws" {
-    region = "us-east-1" # Virgina 
+  region = "us-east-1" # Virgina 
 }
