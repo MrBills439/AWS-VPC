@@ -19,11 +19,11 @@ variable "public_subnet_cidr" {
 variable "availability_zone" {
   description = "Availability Zone for the public subnet"
   type        = string
-  default     = "us-east-1"
+  default     = "us-east-1a"
 }
 
 variable "project_name" {
-  description = "Name prefix for all resources"
+  description = "AZ for the public subnet"
   type        = string
   default     = "learning-vpc"
 }
