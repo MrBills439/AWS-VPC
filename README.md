@@ -122,8 +122,8 @@ Using Terraform allowed me to:
 
 This reinforced the importance of **Infrastructure as Code (IaC)** in modern cloud and DevOps workflows.
 
-![VPC DIAGRAM](screenshots/VPC.png)
-📸 *Add screenshot here: Terraform plan/apply output*
+![VPC DIAGRAM](screenshots/Screenshot%202026-01-18%20at%2014.01.56.png)
+📸 *Terraform plan/apply output*
 
 ---
 
