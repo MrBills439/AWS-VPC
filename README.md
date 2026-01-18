@@ -1,6 +1,6 @@
 # Building a Virtual Private Cloud (VPC) on AWS
 
-[VPC DIAGRAM](screenshots/Diagram.jpeg)
+![VPC DIAGRAM](screenshots/Diagram.jpeg)
 ## 📌 Introducing Today’s Project
 
 In this project, I built a **Virtual Private Cloud (VPC)** on AWS to understand the fundamentals of cloud networking.  
