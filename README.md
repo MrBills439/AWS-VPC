@@ -39,7 +39,8 @@ In this step, I created a custom VPC with the following configuration:
 
 This setup forms the foundation of most AWS architectures.
 
-📸 *Add screenshot here: VPC overview page*
+![VPC DIAGRAM](screenshots/VPC.png)
+📸 *VPC overview page*
 
 ---
 
@@ -70,7 +71,7 @@ This structure:
 
 Understanding CIDR blocks is critical when designing scalable and secure cloud networks.
 
-📸 *Add screenshot here: CIDR block configuration*
+
 
 ---
 
@@ -88,7 +89,8 @@ Key configurations:
 
 Without proper subnet and routing configuration, resources remain inaccessible from the internet.
 
-📸 *Add screenshot here: Subnet settings page*
+![VPC DIAGRAM](screenshots/subnets.png)
+📸 *Subnet settings page*
 
 ---
 
@@ -103,7 +105,8 @@ To enable internet access, I:
 
 A subnet is only considered *public* when it has a valid route to an Internet Gateway.
 
-📸 *Add screenshot here: Route table showing IGW*
+![Route Table](screenshots/Route%20tables.png)
+📸 *Route table showing IGW*
 
 ---
 
@@ -119,6 +122,7 @@ Using Terraform allowed me to:
 
 This reinforced the importance of **Infrastructure as Code (IaC)** in modern cloud and DevOps workflows.
 
+![VPC DIAGRAM](screenshots/VPC.png)
 📸 *Add screenshot here: Terraform plan/apply output*
 
 ---
